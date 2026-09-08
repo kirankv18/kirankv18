@@ -118,9 +118,10 @@ Yuvraja College, University of Mysore
 
 ---
 
-## 🏆 Certification
+### 🏆 Certification & Internship
 
-🐍 Python Full Stack Development — Softflix
+- 🐍 **Python Full Stack Development** — Softflix
+- 💼 **Software Development Intern** — Cognifyz Technologies Ltd.
 
 ---
 
